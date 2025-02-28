@@ -19,7 +19,6 @@ if (isset($_POST['add'])){
 <?php
 }
 ?>
-
 		<table cellpadding="0" cellspacing="0" border="0" class="table" id="">
 									
 									<?php include('move_to_school_year.php'); ?>
